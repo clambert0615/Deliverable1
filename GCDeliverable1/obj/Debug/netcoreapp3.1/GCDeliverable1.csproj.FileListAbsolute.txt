@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.exe
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.deps.json
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.runtimeconfig.json
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.runtimeconfig.dev.json
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.dll
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\bin\Debug\netcoreapp3.1\GCDeliverable1.pdb
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\obj\Debug\netcoreapp3.1\GCDeliverable1.csprojAssemblyReference.cache
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\obj\Debug\netcoreapp3.1\GCDeliverable1.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\obj\Debug\netcoreapp3.1\GCDeliverable1.AssemblyInfo.cs
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\obj\Debug\netcoreapp3.1\GCDeliverable1.dll
+C:\Users\David\source\repos\GCDeliverable1\GCDeliverable1\obj\Debug\netcoreapp3.1\GCDeliverable1.pdb
